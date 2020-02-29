@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: December 2019
+img: project1pic1.png
+video: project1video1.mp4
+ogg: project1video1.ogg
+alt: image-alt
+project-date: December 2019
+<!-- client: Start Bootstrap -->
+<!-- category: Web Development -->
+description: Encouraging Families Outdoors<br><br>For this project, I worked on an interdisciplinary team with Industrial Designers and Mechanical engineers. The goal of the project was to create a product that encouraged families outdoors. <br><br>After conducting market research and multiple iterations of prototyping, the final result was the hive. The product was an attachable fanny pack that can be paired with a daypack, created specifically for a parent child duo. The market research for this projected included understanding the target market, conducting observational research, journey maps, and gathering survey data. <br><br>From the market research gathered, the team decided to move forward with an attachable fanny pack. For the ideation phase, the team initially focused on certain features and began sketching. Many prototypes were created to understand the interaction of the product with the users, functionality, and size. Below is an image of the final prototype the group created.<br><br><img src="img/portfolio/project1pic1.png" width="300" class="img-responsive img-centered">The second picture below shows the final prototype created using a manufacturer based off of a design spec we sent in. <br><br><img src="img/portfolio/project1pic2.png" width="300" class="img-responsive img-centered">The video below shows more information on the fanny pack and the product in use. <br><br><iframe src="https://drive.google.com/file/d/1CijSmH-4jCSFJfXNBvHSGAYzTErwNLXx/preview" width="300" height="200"></iframe>
+
+---

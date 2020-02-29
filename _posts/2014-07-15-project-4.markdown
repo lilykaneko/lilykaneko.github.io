@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-17
+img: project4pic4.png
+alt: image-alt
+project-date: December 2018
+description: Origami Luggage Design<br><br>In this project, my team of three, was tasked with applying origami engineering principles to solve a problem. The team decided to use origami engineering to create an expandable suitcase to meet the needs of the average tourist. The idea was to enable your typical traveler to leave for the trip with a carry on but allow them to return with a check-in as needed.<br><br>The team used many sketches in the ideation phase to understand how the suitcase would open, expand, and the size. Below shows a picture of some of the ideation that happened to better understand how the suitcase would open.<br><br><img src="img/portfolio/project4pic1.png" class="img-responsive img-centered">The team conducted research and played around with the concept of bistability. In origami, there are certain folds that allow the creation to exist in two different states and be stable. As thus, we took advantage of these folds to allow the suitcase to still retain its structure and shape in both the collapsed and expanded form. In addition, it was also important that the fold we used had flat foldability so that it would be convenient to fold up. Below shows an image of the fold used.<br><br><img src="img/portfolio/project4pic2.png" class="img-responsive img-centered">The picture below shows the origami pattern being used as the middle part of a suitcase in the final prototype.<br><br><img src="img/portfolio/project4pic4.png" class="img-responsive img-centered">
+---

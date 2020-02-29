@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: project2pic1.jpg
+alt: image-alt
+project-date: December 2019
+description: Pancake Drawing Robot <br><br>I worked with a team of four people to complete a robot in 4 weeks. The group chose to use an Epson six-axis robot as a starting base. The objective of the project was to have the Epson robot create pancakes in unique shapes. The team considered many different options for the end effector to dispense the batter. However, in an effort to keep the design simple, the main force affecting the pancake batter was gravity. The end effector was laser cut and designed to hold a bottle for batter. The pressure inside the bottle was manipulated to control the flow of the batter.<br><br>The robot was able to draw shapes using svg files which were converted to coordinate points using MATLAB. The robot was also able to access a live video feed and take in the image to replicate the shape shown. This was done by writing a program that created boundaries around the given shape. After, the program would create coordinates based on the boundary for the robot to go to. The video below shows the robot in action and further describes the steps taken in designing the robot.<br><br><iframe src="https://drive.google.com/file/d/1h4gggkWlxzEVYN8ETRaKTFsXjpsyDW4g/preview" width="300" height="200"></iframe>
+
+
+---

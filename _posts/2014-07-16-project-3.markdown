@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-17
+img: project3pic2.png
+alt: image-alt
+project-date: May 2018
+description: Robotic Musicianship<br><br>For this project, I worked in a lab with two different projects. The first project was rapid prototyping an exoskeleton to aid in piano playing for patients with hemiparesis. Since the goal was to allow the user to be able to play piano again, individual finger control was a key aspect in creating the designs. I worked on multiple iterations of prototyping using 3D printing and CAD modeling to understand the design. Below is an example of one of the early prototyped designs.<br><br><img src="img/portfolio/project3pic1.png" class="img-responsive img-centered">Since we were able to rapid prototype the different approaches for individual finger control, the team was able to experiment with which option was best. The final method chosen to control the motion of the patient’s hand was string tension. The picture below shows the final prototype the team was able to achieve in one semester with the integration of mechatronics.<br><br><img src="img/portfolio/project3pic2.png" class="img-responsive img-centered">A separate prototype was created to test for feasibility for controlling the placement of the strings used to create tension, seen in the picture underneath <br><br><img src="img/portfolio/project3pic3.png" class="img-responsive img-centered">The other project that I worked on, was creating a test fixture to determine typical loading forces in a hand. The data was needed to create specifications for the motors of a prosthetic arm with the same goal in aiding a person to play piano.
+---
